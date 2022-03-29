@@ -1,5 +1,5 @@
 # Recriando o site da Netflix (dio.me)
-Este é um projeto prático realizado para o curso de desenvolvimento web da [Dio.me](https://www.dio.me)
+Este é um projeto prático realizado para o curso de desenvolvimento web da [Dio.me](https://www.dio.me).
 
 
 ## Alterações
@@ -9,3 +9,4 @@ Este é um projeto prático realizado para o curso de desenvolvimento web da [Di
 - Adicionei mais um carousel com os filmes mais assistidos
 - Coloquei um ranking com a colocação dos filmes mais assistidos
 
+O site pode ser acessado clicando [AQUI]( https://dennisberg13100.github.io/recriando_netflix_dio/).
